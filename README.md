@@ -1,0 +1,2 @@
+# qxmlstreamreader
+Simple XML reader
