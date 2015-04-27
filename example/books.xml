@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="101">
+      <author>Foo, Bar</author>
+      <title>Foo Bar Book</title>
+      <genre>Geek</genre>
+   </book>
+   <book id="102">
+      <author>Keyboard, Mouse</author>
+      <title>My little K. M.</title>     
+   </book>   
+</catalog>
+
