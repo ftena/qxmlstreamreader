@@ -1,2 +1,2 @@
 # qxmlstreamreader
-Simple XML reader
+Print a XML file using QXmlStreamReader.
